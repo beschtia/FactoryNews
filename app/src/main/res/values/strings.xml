@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Factory News</string>
+    <string name="description_article_picture">Slika vijesti</string>
+    <string name="alert_notConnected_title">Niste povezani na internet</string>
+    <string name="alert_notConnected_message">Provjerite jeste li spojeni na internet i pokušajte ponovno</string>
+    <string name="alert_title">Greška</string>
+    <string name="alert_positiveButton">U REDU</string>
+    <string name="alert_message">Ups, došlo je do pogreške</string>
+</resources>
